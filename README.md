@@ -1,5 +1,5 @@
-                                                              STUDENT RESULT MANAGEMENT SYSTEM PROJECT
-# Introduction:-
+# STUDENT RESULT MANAGEMENT SYSTEM 
+## Introduction:-
 Student Result Management System is a technological opportunity for the school, college, 
 university and coaching centre institutions searching for a secure, simple and alternative solution 
 to the conventional paper-based exam results evaluation, reporting and distribution. The software 
@@ -36,7 +36,7 @@ for the students whenever needed.
                   name. If one of the information is wrong, an error message will be displayed. -->
 
                             
-# Software Requirements Specification:-
+## Software Requirements Specification:-
 ### Operating System: 
 Windows 7 or higher <br>
 ### Language: 
